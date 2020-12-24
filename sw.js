@@ -1,9 +1,9 @@
 const APP_VERSION="1.0.0";
 
 const urls_to_cache=[
-    "/",
-    "/index.html",
-    "/bundle.js"
+    "/sample-pwa/",
+    "/sample-pwa/index.html",
+    "/sample-pwa/bundle.js"
 ];
 
 class AppInstallSupport{
